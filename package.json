@@ -2,10 +2,13 @@
 	"name": "oi-helper",
 	"displayName": "OI Helper",
 	"description": "Help you learn OI in VS Code happily.",
-	"version": "0.0.1",
+	"preview": true,
+	"publisher": "OI Dev Group",
+	"version": "0.0.1000",
 	"engines": {
 		"vscode": "^1.47.0"
 	},
+	"license": "AGPL-3.0",
 	"categories": [
 		"Other"
 	],
