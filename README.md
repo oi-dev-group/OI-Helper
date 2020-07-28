@@ -16,7 +16,7 @@ This extension makes it possible for you to learn OI efficiently using VS Code.
 
 ## Algorithm Templates/算法模板
 
-According to your choice, automatically import the template you need! Simply change part of the code, you can make your code through!
+The algorithm templates can be imported automaticly according your choice.
 
 根据您的选择，自动导入您所需的模板！只需轻松改变部分代码，便可AK全场！
 
@@ -38,7 +38,7 @@ According to your choice, automatically import the template you need! Simply cha
 
 [ ] A-Star Algorithm/A*算法
 
-[ ] And So On.../还有更多
+[ ] To Be Continued.../还有更多
 
 # Features Scheduled/未来支持功能
 
