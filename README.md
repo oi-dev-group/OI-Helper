@@ -22,35 +22,35 @@ The algorithm templates can be imported automaticly according your choice.
 
 ### Current Templates/目前有的模板：
 
-[x] Quick sort with STL/用STL快速排序
+- [x] Quick sort with STL/用STL快速排序
 
-[x] Stable sort with STL/用STL进行稳定排序
+- [x] Stable sort with STL/用STL进行稳定排序
 
 ### Templates Scheduled/未来添加模板
 
-[ ] Treap/Treap树
+- [ ] Treap/Treap树
 
-[ ] Splay/Splay树
+- [ ] Splay/Splay树
 
-[ ] Binary Tree/二叉树
+- [ ] Binary Tree/二叉树
 
-[ ] Bubble Sort/冒泡排序
+- [ ] Bubble Sort/冒泡排序
 
-[ ] A-Star Algorithm/A*算法
+- [ ] A-Star Algorithm/A*算法
 
-[ ] To Be Continued.../还有更多
+- [ ] To Be Continued.../还有更多
 
 # Features Scheduled/未来支持功能
 
-[ ] Luogu Interaction/与洛谷进行交互
+- [ ] Luogu Interaction/与洛谷进行交互
 
-[ ] Vijos Interaction/与Vijos进行交互
+- [ ] Vijos Interaction/与Vijos进行交互
 
-[ ] OI-Wiki Built-in/内置OI Wiki
+- [ ] OI-Wiki Built-in/内置OI Wiki
 
-[ ] Online Judge Systems Interaction/与更多在线评测系统交互
+- [ ] Online Judge Systems Interaction/与更多在线评测系统交互
 
-[ ] To Be Continued.../还有更多，有待扩充……
+- [ ] To Be Continued.../还有更多，有待扩充……
 
 # Developers/开发者
 
