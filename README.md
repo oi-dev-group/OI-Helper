@@ -26,6 +26,8 @@ The algorithm templates can be imported automaticly according your choice.
 
 - [x] Stable sort with STL/用STL进行稳定排序
 
+- [x] DSU/并查集
+
 ### Templates Scheduled/未来添加模板
 
 - [ ] Treap/Treap树
