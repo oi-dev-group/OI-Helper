@@ -6,12 +6,13 @@
 
 ![](https://img.shields.io/github/followers/oi-dev-group?style=social) ![](https://img.shields.io/github/forks/oi-dev-group/OI-Helper?style=social) ![](https://img.shields.io/github/stars/oi-dev-group/OI-Helper?style=social) 
 
-# What's That/这是啥
-This extension can let you learn OI efficiently in VS Code, and is a good helper in your study!
+# What's This/这是啥
+
+This extension makes it possible for you to learn OI efficiently using VS Code.
 
 此扩展可以让你在VS Code中高效的学习OI，是您学习中的好帮手！
 
-# Currently Support/目前支持
+# Current Features/目前功能
 
 ## Algorithm Templates/算法模板
 
@@ -19,13 +20,13 @@ According to your choice, automatically import the template you need! Simply cha
 
 根据您的选择，自动导入您所需的模板！只需轻松改变部分代码，便可AK全场！
 
-### Currently Available Templates/目前有的模板：
+### Current Templates/目前有的模板：
 
 [x] Quick sort with STL/用STL快速排序
 
 [x] Stable sort with STL/用STL进行稳定排序
 
-### Add Templates In The Future/未来添加模板
+### Templates Scheduled/未来添加模板
 
 [ ] Treap/Treap树
 
@@ -39,23 +40,23 @@ According to your choice, automatically import the template you need! Simply cha
 
 [ ] And So On.../还有更多
 
-# TODO LIST/未来支持功能
+# Features Scheduled/未来支持功能
 
-[ ] Interact with Luogu/与洛谷进行交互
+[ ] Luogu Interaction/与洛谷进行交互
 
-[ ] Interact with VIJOS/与Vijos进行交互
+[ ] Vijos Interaction/与Vijos进行交互
 
-[ ] Built in OI wiki/内置OI Wiki
+[ ] OI-Wiki Built-in/内置OI Wiki
 
-[ ] Interact with more Online Judge Systems/与更多在线评测系统交互
+[ ] Online Judge Systems Interaction/与更多在线评测系统交互
 
-[ ] There is more to be expand.../还有更多，有待扩充……
+[ ] To Be Continued.../还有更多，有待扩充……
 
-# Developer/开发者
+# Developers/开发者
 
-OI Dev Group
+Developed by the OI Dev Group
 
-# Donate/捐助
+# Donate Us/捐助
 
 ## Wechat/微信
 ![](https://www.chuangzhi.cf/images/wechatpay.png)
