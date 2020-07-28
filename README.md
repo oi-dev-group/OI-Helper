@@ -54,6 +54,25 @@ The algorithm templates can be imported automaticly according your choice.
 
 - [ ] To Be Continued.../还有更多，有待扩充……
 
+# Run with The Code/用代码运行
+
+First, please install the following software/安装下列的软件:
+```
+VS Code
+Git
+Node.js
+```
+
+Then run the command in your terminal/在终端跑下面的代码:
+```bash
+git clone https://github.com/oi-dev-group/OI-Helper.git
+cd OI-Helper
+npm install
+code .
+```
+
+After that, you can run it in the VS Code and edit the code!/然后就可以编辑源代码以及调试了qwq
+
 # Developers/开发者
 
 Developed by the OI Dev Group
