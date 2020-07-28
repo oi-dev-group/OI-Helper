@@ -1,5 +1,6 @@
 # OI Helper
-![icon.gif](https://i.loli.net/2020/07/27/9aUvbWzlAiQoeut.gif)
+
+![](https://i.loli.net/2020/07/28/m1Y98c7l4Xw3nBZ.png)
 
 ![](https://img.shields.io/github/languages/count/oi-dev-group/OI-Helper?style=for-the-badge) ![](https://img.shields.io/github/languages/top/oi-dev-group/OI-Helper?style=for-the-badge) ![](https://img.shields.io/github/license/oi-dev-group/OI-helper?style=for-the-badge) 
 
@@ -52,14 +53,15 @@ According to your choice, automatically import the template you need! Simply cha
 
 # Developer/开发者
 
-* chuang-zhi/Jobs Au
-* code004Accepted/Brain Chen
-* luoguliziheng/Li Ziheng
-* zhaowenrui2020/Zhao Wenrui
-* Yemaster 
+OI Dev Group
 
 # Donate/捐助
 
+## Wechat/微信
 ![](https://www.chuangzhi.cf/images/wechatpay.png)
 
+## QQ Wallet/QQ钱包
 ![](https://www.chuangzhi.cf/images/qqpay.png)
+
+## Alipay/支付宝
+![](https://www.liziheng.ac.cn/medias/reward/alipay.jpg)
