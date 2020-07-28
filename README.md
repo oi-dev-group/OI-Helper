@@ -58,11 +58,5 @@ Developed by the OI Dev Group
 
 # Donate Us/捐助
 
-## Wechat/微信
-![](https://www.chuangzhi.cf/images/wechatpay.png)
-
-## QQ Wallet/QQ钱包
-![](https://www.chuangzhi.cf/images/qqpay.png)
-
 ## Alipay/支付宝
 ![](https://www.liziheng.ac.cn/medias/reward/alipay.jpg)
