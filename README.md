@@ -28,6 +28,8 @@ The algorithm templates can be imported automaticly according your choice.
 
 - [x] DSU/并查集
 
+- [x] Floyd/佛洛依德
+
 ### Templates Scheduled/未来添加模板
 
 - [ ] Treap/Treap树

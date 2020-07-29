@@ -1,27 +1,37 @@
 // The module 'vscode' contains the VS Code extensibility API
 // Import the module and reference it with the alias vscode in your code below
 const vscode = require('vscode');
-
+const fs = require('fs');
 // this method is called when your extension is activated
 // your extension is activated the very first time the command is executed
-
 /**
  * @param {vscode.ExtensionContext} context
  */
+const Templates=new Array('Quick Sort With STL/STL版快速排序','Stable Sort With STL/STL版稳定排序','DSU/并查集','Floyd/佛洛依德');
+const TemplatesFileName=new Array('QuickSort_STL.cpp','StableSort_STL.cpp','DSU.cpp','Floyd.cpp');
 function activate(context) {
-
-	// Use the console to output diagnostic information (console.log) and errors (console.error)
-	// This line of code will only be executed once when your extension is activated
-	console.log('Congratulations, your extension "oi-helper" is now active!');
-
-	// The command has been defined in the package.json file
-	// Now provide the implementation of the command with  registerCommand
-	// The commandId parameter must match the command field in package.json
-	let disposable = vscode.commands.registerCommand('extension.helloWorld', function () {
-		// The code you place here will be executed every time your command is executed
-
-		// Display a message box to the user
-		vscode.window.showInformationMessage('Hello World!');
+	let disposable = vscode.commands.registerCommand('oihelper.import',function () {
+		var WhichOne;
+		vscode.window.showQuickPick(Templates,{
+			canPickMany: false,
+			ignoreFocusOut: true,
+			placeHolder: "Select a Templates/选择模板"
+		}).then(
+			function GetTemplates(SelectTemplates){
+				for(var i=0;i<Templates.length;i++){
+					if(SelectTemplates==Templates[i]){
+						WhichOne=i;
+						break;
+					}
+				}
+				var TemplateCode=fs.readFileSync(__dirname+'/Templates/'+TemplatesFileName[WhichOne]);
+				console.log(TemplateCode.toString());
+				vscode.window.activeTextEditor.edit(editBuilder => {
+					const end=new vscode.Position(vscode.window.activeTextEditor.document.lineCount+1,0);
+					editBuilder.replace(new vscode.Range(new vscode.Position(0, 0), end),TemplateCode.toString());
+				});
+			}
+		)
 	});
 
 	context.subscriptions.push(disposable);

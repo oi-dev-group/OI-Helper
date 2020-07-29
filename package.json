@@ -13,14 +13,14 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:extension.helloWorld"
+		"onCommand:oihelper.import"
 	],
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [
 			{
-				"command": "extension.helloWorld",
-				"title": "Hello World"
+				"command": "oihelper.import",
+				"title": "Import the Templates/插入模板"
 			}
 		]
 	},
