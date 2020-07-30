@@ -3,7 +3,7 @@
 	"displayName": "OI Helper",
 	"description": "Help you learn OI in VS Code happily.",
 	"preview": true,
-	"publisher": "OI DEV GROUP",
+	"publisher": "oi-dev",
 	"version": "0.0.1000",
 	"engines": {
 		"vscode": "^1.47.0"
