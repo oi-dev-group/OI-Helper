@@ -3,18 +3,48 @@
 	"displayName": "OI Helper",
 	"description": "Help you learn OI in VS Code happily.",
 	"preview": true,
-	"publisher": "OI Dev Group",
+	"publisher": "OI DEV GROUP",
 	"version": "0.0.1000",
 	"engines": {
 		"vscode": "^1.47.0"
 	},
 	"license": "AGPL-3.0",
 	"categories": [
-		"Other"
+		"Other",
+		"Snippets"
 	],
+	"keywords": [
+		"luogu",
+		"algorithm",
+		"OI",
+		"洛谷",
+		"OJ",
+		"OnlineJudge",
+		"Vijos",
+		"NOIp",
+		"CSP",
+		"ACM",
+		"judge",
+		"C++",
+		"Pascal",
+		"信息学",
+		"奥赛",
+		"OIGAT",
+		"OI加油站",
+		"LZH",
+		"OI DEV GROUP"
+	],
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/oi-dev-group/OI-Helper"
+	},
 	"activationEvents": [
 		"onCommand:oihelper.import"
 	],
+	"bugs": {
+		"url": "https://github.com/oi-dev-group/OI-Helper/issues",
+		"email": "admin@oigat.cn"
+	},
 	"main": "./extension.js",
 	"contributes": {
 		"commands": [
