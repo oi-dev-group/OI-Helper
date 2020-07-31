@@ -2,6 +2,8 @@
 
 ![](https://i.loli.net/2020/07/28/m1Y98c7l4Xw3nBZ.png)
 
+![uugai.com_1596201903399.png](https://i.loli.net/2020/07/31/P6qWpm94QVMz2u3.png)
+
 ![](https://img.shields.io/github/license/oi-dev-group/OI-helper?style=for-the-badge) ![](https://img.shields.io/github/followers/oi-dev-group?style=for-the-badge) ![](https://img.shields.io/github/forks/oi-dev-group/OI-Helper?style=for-the-badge) ![](https://img.shields.io/github/stars/oi-dev-group/OI-Helper?style=for-the-badge) 
 
 # 简介
@@ -19,6 +21,7 @@
 - [x] STL快速排序
 - [x] STL稳定排序
 - [x] 并查集
+- [x] Floyd
 
 ### 计划添加：
 

@@ -4,10 +4,11 @@
 	"description": "Help you learn OI in VS Code happily.",
 	"preview": true,
 	"publisher": "oi-dev",
-	"version": "0.0.1000",
+	"version": "0.0.1005",
 	"engines": {
 		"vscode": "^1.47.0"
 	},
+	"icon": "/icon/icon.png",
 	"license": "AGPL-3.0",
 	"categories": [
 		"Other",
