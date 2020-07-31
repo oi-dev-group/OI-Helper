@@ -14,25 +14,7 @@
 
 根据您的选择，自动导入您所需的模板！只需轻松改变部分代码，便可AK全场！
 
-<<<<<<< HEAD
-### Current Templates/目前有的模板：
-
-- [x] Quick sort with STL/用STL快速排序
-
-- [x] Stable sort with STL/用STL进行稳定排序
-
-- [x] DSU/并查集
-
-- [x] Floyd/佛洛依德
-
-### Templates Scheduled/未来添加模板
-
-- [ ] Treap/Treap树
-
-- [ ] Splay/Splay树
-=======
 ### 目前模板：
->>>>>>> 12668260c4b7e5b56f4297220aa5973975a94e82
 
 - [x] STL快速排序
 - [x] STL稳定排序
