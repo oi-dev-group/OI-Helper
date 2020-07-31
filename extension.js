@@ -7,8 +7,8 @@ const fs = require('fs');
 /**
  * @param {vscode.ExtensionContext} context
  */
-const Templates=new Array('Quick Sort With STL/STL版快速排序','Stable Sort With STL/STL版稳定排序','DSU/并查集','Floyd/佛洛依德');
-const TemplatesFileName=new Array('QuickSort_STL.cpp','StableSort_STL.cpp','DSU.cpp','Floyd.cpp');
+const Templates=new Array('Quick Sort With STL/STL版快速排序','Stable Sort With STL/STL版稳定排序','DSU/并查集','Floyd/佛洛依德','Interval Sum By Segment Tree/用线段树求区间和');
+const TemplatesFileName=new Array('QuickSort_STL.cpp','StableSort_STL.cpp','DSU.cpp','Floyd.cpp','IntervalSum_SegmentTree.cpp');
 function activate(context) {
 	let disposable = vscode.commands.registerCommand('oihelper.import',function () {
 		var WhichOne;
