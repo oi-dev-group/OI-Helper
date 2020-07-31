@@ -1,9 +1,7 @@
 # Change Log
 
-All notable changes to the "oi-helper" extension will be documented in this file.
+## Build 1000
+初始4个模板：快速排序、归并排序、并查集、佛洛依德
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+## Build 1005
+添加模板：用线段树求区间和
